@@ -1,0 +1,23 @@
+===== YB JOB START =====
+IP: 52.161.51.146
+  HOST https://www.apkmirror.com/       -> %{http_code}
+  HOST https://apkpure.com/             -> %{http_code}
+  HOST https://d.apkpure.com/           -> %{http_code}
+  HOST https://apksos.com/              -> %{http_code}
+  HOST https://apkcombo.com/            -> %{http_code}
+  HOST https://play.google.com/         -> %{http_code}
+  HOST https://mini1.cn/                -> %{http_code}
+  HOST https://dl.mini1.cn/             -> %{http_code}
+  HOST https://www.miniworld.cn/        -> %{http_code}
+  HOST https://api.ipify.org/           -> %{http_code}
+  HOST https://github.com/              -> %{http_code}
+CAND https://d.apkpure.com/b/APK/com.playmini.miniworld?version=l
+   HTTP/2 403  | content-type: text/html; charset=UTF-8 | content-length: 5783
+CAND https://d.apkpure.net/b/APK/com.playmini.miniworld?version=l
+   HTTP/2 302  | content-type: text/html; charset=utf-8 | HTTP/2 200  | content-type: application/octet-stream | content-length: 1060171073
+CHOSEN: https://d.apkpure.net/b/APK/com.playmini.miniworld?version=latest
+下载中 ...
+文件: -rw-r--r-- 1 runner runner 1060171073 Oct  9 20:49 /tmp/mw.bin
+/tmp/mw.bin: Android package (APK), with AndroidManifest.xml
+00000000: 504b 0304                                PK..
+耗时: 16 秒
