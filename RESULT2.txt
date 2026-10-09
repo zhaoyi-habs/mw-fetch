@@ -1,0 +1,62 @@
+===== YB JOB2 START =====
+下载完成 9s
+-rw-r--r-- 1 runner runner 1060171073 Oct  9 20:54 /tmp/mw.bin
+MD5: 4d14d101d660587f7f0f09636ab18109  /tmp/mw.bin
+SHA1: 41c6f7a025018c559350e424449de605e3d05120  /tmp/mw.bin
+--- APK 内部结构 (前 60 条) ---
+Archive:  /tmp/mw.bin
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+    85192  1981-01-01 01:01   AndroidManifest.xml
+     1738  1981-01-01 01:01   DebugProbesKt.bin
+        6  1981-01-01 01:01   META-INF/androidx.activity_activity-ktx.version
+        6  1981-01-01 01:01   META-INF/androidx.activity_activity.version
+        6  1981-01-01 01:01   META-INF/androidx.annotation_annotation-experimental.version
+        6  1981-01-01 01:01   META-INF/androidx.appcompat_appcompat-resources.version
+        6  1981-01-01 01:01   META-INF/androidx.appcompat_appcompat.version
+       67  1981-01-01 01:01   META-INF/androidx.arch.core_core-runtime.version
+        6  1981-01-01 01:01   META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+       14  1981-01-01 01:01   META-INF/androidx.browser_browser.version
+        6  1981-01-01 01:01   META-INF/androidx.cardview_cardview.version
+        6  1981-01-01 01:01   META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+        6  1981-01-01 01:01   META-INF/androidx.core_core-ktx.version
+        6  1981-01-01 01:01   META-INF/androidx.core_core.version
+        6  1981-01-01 01:01   META-INF/androidx.cursoradapter_cursoradapter.version
+        6  1981-01-01 01:01   META-INF/androidx.customview_customview.version
+        6  1981-01-01 01:01   META-INF/androidx.datastore_datastore.version
+        6  1981-01-01 01:01   META-INF/androidx.documentfile_documentfile.version
+        6  1981-01-01 01:01   META-INF/androidx.drawerlayout_drawerlayout.version
+        6  1981-01-01 01:01   META-INF/androidx.dynamicanimation_dynamicanimation.version
+        6  1981-01-01 01:01   META-INF/androidx.emoji2_emoji2-views-helper.version
+        6  1981-01-01 01:01   META-INF/androidx.emoji2_emoji2.version
+        6  1981-01-01 01:01   META-INF/androidx.exifinterface_exifinterface.version
+        6  1981-01-01 01:01   META-INF/androidx.fragment_fragment.version
+        6  1981-01-01 01:01   META-INF/androidx.interpolator_interpolator.version
+        6  1981-01-01 01:01   META-INF/androidx.legacy_legacy-support-core-ui.version
+        6  1981-01-01 01:01   META-INF/androidx.legacy_legacy-support-core-utils.version
+        6  1981-01-01 01:01   META-INF/androidx.legacy_legacy-support-v4.version
+       78  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+       73  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-livedata.version
+       72  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-process.version
+       76  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+       72  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-runtime.version
+       72  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-service.version
+       78  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+       85  1981-01-01 01:01   META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+       74  19
+--- assets 下大文件 ---
+1188396733 
+667030679 assets/common_res.pkg
+209041340 assets/game_res.pkg
+109139024 lib/armeabi-v7a/liblibGameApp.so
+55446388 assets/script_res.pkg
+16582557 assets/material_ogles3.pkg
+11922855 assets/first_res.pkg
+11616489 assets/material_ogles2.pkg
+10048836 classes.dex
+Length Name
+Archive:
+上传 Release 中 ...
+上传结果: {"url":"https://api.github.com/repos/zhaoyi-habs/miniworld-tools/releases/assets/626153492","id":626153492,"node_id":"RA_kwDOVBWlbs4lUlgU","name":"MiniWorld_latest.apk","label":"","uploader":{"login":"zhaoyi-habs","id":316443789,"node_id":"U_kgDOEtyMjQ","avatar_url":"https://avatars.githubusercontent.com/u/316443789?v=4","gravatar_id":"","url":"htt
+上传耗时 48s
+===== YB JOB2 END =====
