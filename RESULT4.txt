@@ -24,3 +24,13 @@ ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byt
 ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byte
 obj.zip: 23457297 字节
 上传 obj: MiniWorld_obj.zip 23457297
+--- 纹理转换 ---
+convert_textures 0s:
+2000 ... {'unsup-fmt65': 1831, 'not-tex': 169}
+  4000 ... {'unsup-fmt65': 3830, 'not-tex': 170}
+  6000 ... {'unsup-fmt65': 5635, 'not-tex': 365}
+  8000 ... {'unsup-fmt65': 7633, 'not-tex': 367}
+  10000 ... {'unsup-fmt65': 9633, 'not-tex': 367}
+  12000 ... {'unsup-fmt65': 11632, 'not-tex': 368}
+DONE 13879 {'unsup-fmt65': 13502, 'not-tex': 370, 'ok': 7}
+PNG 累计: 7
