@@ -29,3 +29,22 @@ pkg 大小:
 /tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_huaxiaolou.png
   huaxiao 命中:
 /tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_huaxiaolou.png
+
+=== 解包 script_res.pkg (55446388 字节) ===
+  格式: ver=0x130BA  记录 8172 条  路径 8172 条
+    已写出 5000 ...
+  
+  ===== 汇总 =====
+  提取文件: 8172
+  内容 md5: 通过 0 / 失败 0 / 跳过 8172
+  解码分支: {'lz4': 8159, 'raw': 13}
+  按 Z 统计: {'Z=0/raw': 13, 'Z=1/lz4': 8159}
+  扩展名与内容一致性:
+    .json      421/   421
+  耗时 0.9s，读取 52.6 MB
+  报告: /tmp/o_script_res/_unpack_report.json
+  解出文件数: 8173
+  xiaolou 命中:
+   (无)
+  huaxiao 命中:
+   (无)
