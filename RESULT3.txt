@@ -23,3 +23,53 @@ pathless (orphan) records: 3332 -> _orphans/
 磁盘剩余: /dev/root       145G   61G   84G  43% /
 输出大小: 724M	/tmp/out
 文件数: 36617
+--- 扩展名统计 ---
+13879 png
+   3336 bin
+   2719 ogg
+   1998 emo
+   1112 skanim
+   1083 ent
+    978 obj
+    894 omod
+    629 mat
+    542 mesh
+    296 r
+    146 json
+    132 uprefab
+    132 prefab
+    108 vmo
+    107 fui
+     73 templatemat
+     67 tpic
+     48 xml
+     24 cm
+     21 skeleton
+     18 overridecontroller
+     18 bp
+     17 fcm
+     14 zip
+     12 controller
+     10 otex
+      8 png_
+      7 vox
+      5 oanim
+      5 jpg
+      3 rendersetting
+      2 txt
+      2 ppc
+      2 mid
+--- 报告 ---
+{
+ "pkg": "/tmp/pkg/assets/common_res.pkg",
+ "format": "v2 (0x130ba)",
+ "records": 36615,
+ "records_28b": 8383,
+ "records_44b": 28232,
+ "paths": 33283,
+ "files_extracted": 33283,
+ "orphans": 3332,
+ "md5_ok": 36615,
+ "md5_bad": 0,
+ "errors": []
+}
