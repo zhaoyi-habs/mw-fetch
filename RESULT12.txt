@@ -9,3 +9,12 @@ pkg 列表: 4096 .
 16582557 material_ogles3.pkg
 1053265 remote_res.pkg
 55446388 script_res.pkg
+
+=== game_script.pkg ===
+main()
+  File "/home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/extract_game_script.py", line 44, in main
+    data = open(pkg, "rb").read()
+           ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '迷你世界_1.58.2/assets/game_script.pkg'
+csvdef 文件: head: invalid option -- 'p'
+Try 'head --help' for more information.
