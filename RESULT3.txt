@@ -73,3 +73,7 @@ pathless (orphan) records: 3332 -> _orphans/
  "md5_bad": 0,
  "errors": []
 }
+--- 提取模型文件 ---
+复制: done
+模型文件数: 5412
+模型目录大小: 169M	/tmp/models
