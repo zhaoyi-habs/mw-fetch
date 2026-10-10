@@ -60,3 +60,66 @@ male.png
 face1.png
 hulu.png
 put失败 'ascii' codec can't encode characters in position 60-62: ordinal not in range(128)
+  回传 face.png                                                         3784  ✅
+  回传 body.prefab                                                     15217  ✅
+  回传 hand.omod                                                       32301  ✅
+  回传 male.png                                                        25960  ✅
+  回传 140021.overridecontroller                                       13437  ✅
+  回传 face1.png                                                        3220  ✅
+  回传 hulu.png                                                         1868  ✅
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 material/material #10.mat                                        1140  ❌
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 material/material #7.mat                                         1141  ❌
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 material/material #9.mat                                         1141  ❌
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 material/03 - default.mat                                        1140  ❌
+  回传 140021_lod/hululow.png                                           1868  ✅
+  回传 140021_lod/bodylow.png                                          28124  ✅
+  回传 140021_lod/140021low.prefab                                      1206  ✅
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 140021_lod/material/material #108.mat                            1143  ❌
+putbin失败 URL can't contain control characters. '/repos/zhaoyi-habs/mw-fetch/contents/hualou/140021/
+  回传 140021_lod/material/material #10.mat                             1140  ❌
+  回传 140021_lod/model/140021low_sk.skeleton                           3570  ✅
+  回传 140021_lod/model/140021low_hulu.mesh                             3138  ✅
+  回传 140021_lod/model/140021low_body0.mesh                           91256  ✅
+  回传 140021_lod/animation/100109.skanim                              11845  ✅
+  回传 140021_lod/animation/take_001.skanim                           840711  ✅
+  回传 140021_lod/animation/100107.skanim                               4946  ✅
+  回传 140021_lod/animation/100101.skanim                               9347  ✅
+  回传 140021_lod/animation/100108.skanim                              23536  ✅
+  回传 140021_lod/animation/100100.skanim                              22777  ✅
+  回传 expand/animation/100106.skanim                                   7220  ✅
+  回传 expand/animation/100113.skanim                                   7425  ✅
+  回传 expand/animation/100155.skanim                                  40468  ✅
+  回传 expand/animation/100103.skanim                                   3045  ✅
+  回传 expand/animation/100131.skanim                                  13528  ✅
+  回传 expand/animation/100133.skanim                                   2429  ✅
+  回传 expand/animation/100102.skanim                                   2228  ✅
+  回传 expand/animation/100157.skanim                                  12733  ✅
+  回传 expand/animation/100164.skanim                                   9252  ✅
+  回传 expand/animation/100140.skanim                                  34143  ✅
+  回传 expand/animation/100101.skanim                                  11756  ✅
+  回传 expand/animation/100108.skanim                                  52228  ✅
+  回传 expand/animation/100130.skanim                                  24833  ✅
+  回传 expand/animation/100100.skanim                                  24748  ✅
+  回传 expand/animation/100104.skanim                                   6199  ✅
+  回传 model/body_face.mesh                                             2072  ✅
+  回传 model/body_face1.mesh                                            2074  ✅
+  回传 model/body_body.mesh                                           157111  ✅
+  回传 model/body_sk.skeleton                                           3619  ✅
+  回传 model/body_hulu.mesh                                             3138  ✅
+  回传 animation/100106.skanim                                          9428  ✅
+  回传 animation/100113.skanim                                          3940  ✅
+  回传 animation/100155.skanim                                         27730  ✅
+  回传 animation/100103.skanim                                          2330  ✅
+  回传 animation/100133.skanim                                          1200  ✅
+  回传 animation/100102.skanim                                          2068  ✅
+  回传 animation/100140.skanim                                         22302  ✅
+  回传 animation/100101.skanim                                          7663  ✅
+  回传 animation/100108.skanim                                         31993  ✅
+  回传 animation/100130.skanim                                         18871  ✅
+  回传 animation/100100.skanim                                         23697  ✅
+  回传 animation/100104.skanim                                          6255  ✅
