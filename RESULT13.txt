@@ -5,3 +5,7 @@ blocks: 2778 张
 items: 2267 张
   items 指纹生成 2267
 entity 指纹: 1042
+指纹库 JSON 1383501 字节 → gzip 360211 字节
+条目: blocks=2778 items=2267 entity=1042
+✅ 指纹库已回传 1 片
+===== YB JOB13 END =====
