@@ -188,4 +188,34 @@ script_res 文件数: 8173
   /tmp/o_script/script/csvdef/roleactions.csv : 0 命中
   p/o_script/script/csvdef/utf8/roleactions.csv : 2 命中
     17,花小楼,21,,100108,300116,,0,20446,0,商城出场动画
-    18,花小楼,21,,100131,300117,,0,15256,0,感谢
+    18,花小楼,21,,100131,300117,,0,15256,0,感谢
+
+=== 全 script_res 搜 xiaolou ===
+/tmp/o_script/commonresource/script/ui/mobile/mvc/rookieguide/rookieguide.xml
+/tmp/o_script/commonresource/script/csvdef/utf8/blockdef.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/itemdef.csv
+/tmp/o_script/commonresource/script/luascript/items.lua
+/tmp/o_script/commonresource/script/miniui/module/chat/emoji_selectview/emoji_selectviewctrl.lua
+/tmp/o_script/commonresource/script/miniui/module/chat/emoji_selectview/emoji_selectviewview.lua
+/tmp/o_script/script/language/jpn/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/tur/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/tur/csvdef/utf8/roleskin.csv
+/tmp/o_script/script/language/tur/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/kor/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/kor/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/esn/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/esn/csvdef/utf8/roleskin.csv
+/tmp/o_script/script/language/esn/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/vie/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/ara/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/ara/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/fra/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/fra/csvdef/utf8/roleskin.csv
+/tmp/o_script/script/language/fra/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/ptb/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/ptb/csvdef/utf8/roleskin.csv
+/tmp/o_script/script/language/ptb/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/language/en/csvdef/utf8/stringdef.csv
+
+=== 全 script_res 搜 5400（GG编号）===
+  (无)
