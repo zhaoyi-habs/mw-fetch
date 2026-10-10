@@ -2,3 +2,9 @@
 当前包大小: 1060171073
 --- 当前包 manifest ---
 /bin/sh: 1: Syntax error: "(" unexpected
+--- 查找国内版包名 ---
+PKG com.minitech.miniworld             -> HTTP/2 302  | content-type: text/html; charset=utf-8 | HTTP/2 403  | content-type: text/html; charset=UTF-8 | content-length: 5776
+PKG com.miniworld.game                 -> HTTP/2 404  | content-type: text/html; charset=utf-8
+PKG com.minitech.miniworld.mi          -> HTTP/2 404  | content-type: text/html; charset=utf-8
+PKG com.playmini.miniworld.uc          -> HTTP/2 404  | content-type: text/html; charset=utf-8
+PKG com.miniworld.miniworld            -> HTTP/2 404  | content-type: text/html; charset=utf-8
