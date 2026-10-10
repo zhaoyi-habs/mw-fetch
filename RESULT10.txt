@@ -1,2 +1,32 @@
 ===== YB JOB10 START =====
 解包完成
+--- 角色/实体贴图候选 ---
+/tmp/out/resources/ministudio/entity/player/player01/body/malebody01.png
+/tmp/out/resources/minigame/entity/130013/face.png
+/tmp/out/resources/minigame/entity/130013/body.png
+/tmp/out/resources/minigame/entity/100125/male1.png
+/tmp/out/resources/minigame/entity/100125/male1_emi.png
+/tmp/out/resources/minigame/entity/130037/male.png
+/tmp/out/resources/minigame/entity/13808/flower_lamp.png
+/tmp/out/resources/minigame/entity/310103/body0.png
+/tmp/out/resources/minigame/entity/310099/body0.png
+/tmp/out/resources/minigame/entity/310099/body1.png
+/tmp/out/resources/minigame/entity/100086/male.png
+/tmp/out/resources/minigame/entity/310102/body0.png
+/tmp/out/resources/minigame/entity/310102/body1.png
+/tmp/out/resources/minigame/entity/100041/male.png
+/tmp/out/resources/minigame/entity/100082/male1.png
+/tmp/out/resources/minigame/entity/100082/male_emi.png
+/tmp/out/resources/minigame/entity/100082/male1_emi.png
+/tmp/out/resources/minigame/entity/100082/male.png
+/tmp/out/resources/minigame/entity/110058/yanse_emi.png
+/tmp/out/resources/minigame/entity/110058/touming.png
+/tmp/out/resources/minigame/entity/110058/yanse.png
+/tmp/out/resources/minigame/entity/110058/male.png
+/tmp/out/resources/minigame/entity/110058/touming_emi.png
+/tmp/out/resources/minigame/entity/310094/body0.png
+/tmp/out/resources/minigame/entity/310094/body1.png
+/tmp/out/resources/minigame/entity/310091/body0.png
+/tmp/out/resources/minigame/entity/310091/body1.png
+/tmp/out/resources/minigame/entity/110166/110166.png
+/
