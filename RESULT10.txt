@@ -30,3 +30,11 @@
 /tmp/out/resources/minigame/entity/310091/body1.png
 /tmp/out/resources/minigame/entity/110166/110166.png
 /
+--- 开始解码 ---
+convert_textures: 10000 ... {'unsup-fmt65': 9633, 'not-tex': 367}
+  12000 ... {'unsup-fmt65': 11632, 'not-tex': 368}
+DONE 13879 {'unsup-fmt65': 13502, 'not-tex': 370, 'ok': 7}
+convert_fmt65: 12000 {'ok': 11993, 'cubemap-skip': 8}
+13000 {'ok': 12993, 'cubemap-skip': 8}
+DONE {'ok': 13494, 'cubemap-skip': 8}
+PNG 总数: 13501
