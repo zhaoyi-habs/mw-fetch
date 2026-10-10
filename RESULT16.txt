@@ -1,0 +1,12 @@
+===== YB JOB16 START =====
+pkg 大小:
+4096 .
+4096 ..
+667030679 common_res.pkg
+11922855 first_res.pkg
+1097274 game_language.pkg
+209041340 game_res.pkg
+11616489 material_ogles2.pkg
+16582557 material_ogles3.pkg
+1053265 remote_res.pkg
+55446388 script_res.pkg
