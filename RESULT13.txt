@@ -2,3 +2,5 @@
 解码 PNG: 13501
 blocks: 2778 张
   blocks 指纹生成 2778
+items: 2267 张
+  items 指纹生成 2267
