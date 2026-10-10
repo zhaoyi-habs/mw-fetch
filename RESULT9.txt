@@ -83,3 +83,10 @@
   试探: 40 顶点 / 323 索引 (max idx=58956)
   顶点样本: ['(-0.000,0.000,0.000)', '(0.000,0.000,0.000)', '(0.000,0.000,0.000)', '(0.000,0.000,0.000)', '(0.000,0.000,0.000)']
   ⚠ 索引超出顶点数，试探失败（格式非简单布局）
+
+=== 5. 角色贴图路径样本 ===
+/tmp/out/resources/minigame/entity/140366/male1.png
+/tmp/out/resources/minigame/entity/140366/male2.png
+/tmp/out/resources/minigame/entity/140366/male.png
+
+===== YB JOB9 END =====
