@@ -1,3 +1,4 @@
 ===== YB JOB15 START =====
 [apkpure] 5776 字节  magic=3c21444f  ❌
 [apkpure_b] 5832 字节  magic=3c21444f  ❌
+[apkpure_xapk] 5776 字节  magic=3c21444f  ❌
