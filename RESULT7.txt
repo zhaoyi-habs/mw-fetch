@@ -9,3 +9,7 @@ targetSdk= 34
 uses-feature glEsVersion: ['0x00020000']
 abi-in-manifest: []
 国际版 ABI: lib/armeabi-v7a/
+--- apkpure 搜索 ---
+搜索结果(apkpure.com):
+
+搜索结果(apkpure.net):
