@@ -1,2 +1,11 @@
 ===== YB JOB21 START =====
 game_res: 3518
+目标文件 2 个:
+  /tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_huaxiaolou.png
+  /tmp/o_game/resources/ui/mobile/texture0/bigtex/pskin114.png
+解码产物: 4096 .
+4096 ..
+51988 img_huaxiaolou.png
+73934 pskin114.png
+  pskin114.png 原尺寸 256x256
+  img_huaxiaolou.png 原尺寸 256x256
