@@ -7,3 +7,4 @@
 [apkmonk] 无文件
 [uptodown] 无文件
 [androidfreeware] 5807 字节  magic=3c21444f  ❌
+[apkpure_cn] 5776 字节  magic=3c21444f  ❌
