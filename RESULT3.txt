@@ -6,3 +6,20 @@ pkg: drwxr-xr-x 3 runner runner      4096 Oct 10 04:20 ..
 -rw-r--r-- 1 runner runner 667030679 Jan  1  1981 common_res.pkg
 头部: 00000000: ba30 0100 1100 0000 3678 a527 619c 1c00  .0......6x.'a...
 00000010: 4403 0000 f62f 0000 0000 0600 0000 eb8b  D..../..........
+--- 开始解包 ---
+解包输出: header: ver=0x130ba unk=17 index@665155638+1875041
+index: 3324978 bytes
+records: 36615   paths: 33283   (index consumed 3324978 / 3324978 bytes)
+  5000/36615 ... extracted=4994
+  10000/36615 ... extracted=9994
+  15000/36615 ... extracted=14994
+  20000/36615 ... extracted=19994
+  25000/36615 ... extracted=23073
+  30000/36615 ... extracted=26817
+  35000/36615 ... extracted=31668
+extracted: 33283  md5 ok: 36615 bad: 0
+pathless (orphan) records: 3332 -> _orphans/
+解包耗时 3 秒
+磁盘剩余: /dev/root       145G   61G   84G  43% /
+输出大小: 724M	/tmp/out
+文件数: 36617
