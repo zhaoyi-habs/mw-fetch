@@ -49,3 +49,6 @@ convert_fmt65 90s:
 DONE {'ok': 13494, 'cubemap-skip': 8}
 PNG 总计: 13501
 PNG 目录大小: 272M	/tmp/png
+tex.zip: 255252830 字节
+上传 tex: MiniWorld_textures.zip 255252830
+===== YB JOB4 END =====
