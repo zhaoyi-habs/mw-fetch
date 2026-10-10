@@ -47,3 +47,5 @@ male.png 25960 字节
 /tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin142.png
 /tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin163.png
 /tmp/o_game/resources/ui/mobile/texture0/bigtex/pskin114.png
+
+===== YB JOB20 END =====
