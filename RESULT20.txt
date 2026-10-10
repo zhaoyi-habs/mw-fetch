@@ -1,1 +1,6 @@
 ===== YB JOB20 START =====
+game_res 文件数 3518
+
+img_huaxiaolou.png 32624 字节 magic=0000000002000000
+解码产物: /tmp/one_out/img_huaxiaolou.png
+  回传解码图 /tmp/one_out/img_huaxiaolou.png
