@@ -239,3 +239,6 @@ put失败 'ascii' codec can't encode characters in position 60-63: ordinal not i
 解码后 PNG: 0
 find: ‘/
 find: ‘/tmp/png_hualou’: No such file or directory
+put失败 HTTP Error 409: Conflict
+
+===== YB JOB19 END =====
