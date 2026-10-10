@@ -47,3 +47,145 @@ script_res 文件数: 8173
   t/language/msa/csvdef/utf8/stringdef.csv : 0 行命中
   t/language/ind/csvdef/utf8/stringdef.csv : 0 行命中
   t/language/ger/csvdef/utf8/stringdef.csv : 0 行命中
+
+=== itemuseskindef.csv 搜花小楼 ===
+  esource/script/csvdef/utf8/itemuseskindef.csv : 1 命中
+    13001,花小楼（1天）,21,4,10
+
+=== itemdef.csv 搜花小楼 ===
+  commonresource/script/csvdef/utf8/itemdef.csv : 14 命中
+    727,花小楼生日雕塑,,,,,,,,,,,,,,,,-1,,,,,,,,3,1,0,,,,测试,,,,花小楼的生日庆典纪念雕塑,,icon727,2,,,,,,,200,64,0,5,,1,BlockHuaXiaoLou_OnUse,,,,,,,,,,,,,,
+    13001,花小楼（1天）,Xiaolou(1day),,,,,,,,,,,,1,21,4,5,,,,,,,,,6,0,,,,测试,,,,使用：获得该装扮1天使用时间。  如果已经永久解锁了该装扮，则获得一些迷你豆。,,#50,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    13041,花小楼（永久）,Xiaolou(Permanent),,,,,,,,,,,,1,21,4,4,,,,,,,,,6,0,,,,测试,,,,使用：永久解锁该装扮。  如果已经永久解锁了该装扮，则获得一些迷你豆。,,#50,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    20597,花小楼（7天）,,,,,,,,,,,,0,1,21,4,5,,,,,,,,,6,0,,,,测试,,,,使用：获得该装扮7天使用时间。如果已经永久解锁了该装扮，则获得一些迷你豆。,,#50,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    21415,花语天籁（7天）,,,,,,,,,,,,0,3,821,,5,,,,,,,,,6,0,,,,测试,,,,活动专属（花小楼 x QQ音乐单曲发布活动限定）,,#avatar_icon1000_821,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    22416,花语天籁,,,,,,,,,,,,0,3,821,3,4,,,,,,,,,6,0,,,,测试,,,,活动专属（花小楼 x QQ音乐单曲发布活动限定）,,#avatar_icon1000_821,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    32068,花粉萌萌（30天）,,,,,,,,,,,,0,8,32068,,5,,,,,,,,,,,,,,,,,,使用：解锁该头像框，解锁后可在个人中心切换。,花小楼官方粉丝团专属,hf33068,,,,,,,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    32157,花小楼x深圳（30天）,,,,,,,,,,,,0,8,32152,,5,,,,,,,,,,,,,,,,,,使用：解锁该头像框，解锁后可在个人中心切换。,花小楼x深圳用户面对面活动获得,hf33157,,,,,,,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    33068,花粉萌萌,,,,,,,,,,,,0,8,33068,,4,,,,,,,,,6,,,,,测试,,,,使用：解锁该头像框，解锁后可在个人中心切换。,花小楼官方粉丝团专属,hf33068,,,,,,,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    33157,花小楼x深圳,,,,,,,,,,,,0,8,33157,,4,,,,,,,,,6,,,,,测试,,,,使用：解锁该头像框，解锁后可在个人中心切换。,花小楼x深圳用户面对面活动获得,hf33157,,,,,,,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    35176,甜心多巴胺（7天）,,,,,,,,,,,,0,3,2140,3,5,,,,,,,,,6,0,,,,测试,,,,花小楼生日会活动获得,,#avatar_icon1000_2140,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+    35177,粉兔超酷（7天）,,,,,,,,,,,,0,3,2141,3,5,,,,,,,,,6,0,,,,测试,,,,花小楼生日会活动获得,,#avatar_icon1000_2141,,,,,0.6,0.6,,200,64,0,5,,7,,,,,,,,,,,,,,,
+  t/script/language/jpn/csvdef/utf8/itemdef.csv : 5 命中
+    32068,かわいい花粉（30日）,使用：このフレームをアンロックして使用します。プロファイルのアバターで使用して切り替えます。,花小楼公式ファンクラブ限定
+    32069,ミニガード（30日）,使用：このフレームをアンロックして使用します。プロファイルのアバターで使用して切り替えます。,花小楼公式ファンクラブ限定
+    33068,かわいい花粉,使用：このフレームをアンロックして使用します。プロファイルのアバターで使用して切り替えます。,花小楼公式ファンクラブ限定
+    33069,ミニガード,使用：このフレームをアンロックして使用します。プロファイルのアバターで使用して切り替えます。,花小楼公式ファンクラブ限定
+    33157,Hua Xiaolou,プロフィールで切り替えることができるこのアバターフレームを解除するために使用します。,イベントから
+  t/script/language/tur/csvdef/utf8/itemdef.csv : 10 命中
+    727,Hua Xiaolou doğum günü heykel,Hua Xiaolou 'nun Doğum Günü Kutlaması Hatıra Heykeli,
+    13001,Hua Xiaolou (1 gün),"Kullanım: 1 günlük kullanım için kıyafeti alın. Kıyafet kalıcı olarak açılmışsa, biraz mini fasulye alın.",
+    13041,Hua Xiaolou (kalıcı),"Kullanım: Kıyafetin kalıcı olarak kilidini açın. Kıyafet zaten kalıcı olarak açılmışsa, biraz mini fasulye alın.",
+    20597,Hua Xiaolou (7 gün),"Kullanım: 7 gün boyunca kıyafeti alın. Kıyafet kalıcı olarak açılmışsa, biraz mini fasulye alın.",
+    21415,Çiçeklerin dili (7 gün),Etkinliğe özel (Hua Xiaolou x QQ müzik tek sürüm etkinliği sınırlı),
+    22416,Çiçek dili,Etkinliğe özel (Hua Xiaolou x QQ müzik tek sürüm etkinliği sınırlı),
+    32068,Polen Mengmeng (30 gün),"Kullanım: Avatar Çerçevesinin kilidini açın, kilidini açtıktan sonra kişisel merkezde geçiş yapabilirsiniz.",Huaxiaolou resmi hayran kulübü münhasır
+    32157,Hua Xiaolou (30 Gün),Profilde değiştirilebilen bu Avatar Çerçevesini açmak için kullanın.,Etkinlikten
+    33068,Polen Mengmeng,"Kullanım: Avatar Çerçevesinin kilidini açın, kilidini açtıktan sonra kişisel merkezde geçiş yapabilirsiniz.",Huaxiaolou resmi hayran kulübü münhasır
+    33157,Hua Xiaolou,Profilde değiştirilebilen bu Avatar Çerçevesini açmak için kullanın.,Etkinlikten
+  t/script/language/tha/csvdef/utf8/itemdef.csv : 0 命中
+  t/script/language/kor/csvdef/utf8/itemdef.csv : 8 命中
+    727,Hua Xiaolou 생일 조각품,Hua Xiaolou의 생일 축하 기념 조각품,
+    13001,Hua Xiaolou (1일),사용: 1일 사용 의상을 받으십시오. 의상이 영구적으로 잠금 해제된 경우 미니 콩을 구입하십시오.,
+    13041,Hua Xiaolou (영구),사용: 의상을 영구적으로 잠금 해제합니다. 의상이 이미 영구적으로 잠금 해제된 경우 미니 콩을 구입하십시오.,
+    20597,Hua Xiaolou (7일),사용: 7일 동안 옷을 입으십시오. 의상이 영구적으로 잠금 해제된 경우 미니 콩을 얻으십시오.,
+    21415,꽃의 언어 (7일),이벤트 독점(Hua Xiaolou x QQ 음악 싱글 릴리스 이벤트 제한),
+    22416,꽃 언어,이벤트 독점(Hua Xiaolou x QQ 음악 싱글 릴리스 이벤트 제한),
+    32068,꽃가루 멍멍 (30일),사용: 아바타 프레임 잠금 해제 후 개인 센터에서 전환할 수 있습니다.,Huaxiaolou 공식 팬클럽 독점
+    33068,꽃가루 멍멍,사용: 아바타 프레임 잠금 해제 후 개인 센터에서 전환할 수 있습니다.,Huaxiaolou 공식 팬클럽 독점
+  t/script/language/esn/csvdef/utf8/itemdef.csv : 10 命中
+    727,Xiaolou de Aniversario,Estatua conmemorativa por el cumpleaños de Xiaolou,@Null@
+    13001,Xiaolou (1 día),Uso: Consigue esta skin durante 1 día. Obtenga algunos Mini Beans si ha desbloqueado permanentemente el atuendo.,
+    13041,Xiaolou (permanente),Uso: Desbloquea esta piel de forma permanente. Obtendrá algunos mini frijoes si la ha desbloqueado permanentemente.,
+    20597,Xiaolou  (7 días),"Uso: desbloquea este eskin por 1 día (si ya lo tienes, obtendrás algunos mini frijoles luego de usar esto)",@Null@
+    21415,Ambiente floral (7 días),"Exclusivo del evento (Xiaolou x QQ music x Weishi, transmisión en vivo de colaboración y evento de lanzamiento del single original solamente)",@Null@
+    22416,Ambiente floral,Exclusivo del evento (Xiaolou x QQ music x Weishi colaboración Transmisión en vivo y evento de lanzamiento original solo),@Null@
+    32068,Polen Lindo (30 días),"Uso: desbloquee este marco para usarlo. Usar y cambiar en Perfil, Avatar.",Exclusivo para el grupo oficial de fans de Xiaolou
+    32157,Hua Xiaolou (30 Días),"Úsalo para desbloquear este Avatar Frame, que se puede cambiar en el perfil.",De evento
+    33068,Polen Lindo,"Uso: desbloquee este marco para usarlo. Usar y cambiar en Perfil, Avatar.",Exclusivo para el grupo oficial de fans de Xiaolou
+    33157,Hua Xiaolou,"Úsalo para desbloquear este Avatar Frame, que se puede cambiar en el perfil.",De evento
+  t/script/language/vie/csvdef/utf8/itemdef.csv : 1 命中
+    22416,Hoa Ngữ Thiên Lai,Sự kiện độc quyền (Xiaolou x QQ music x Weishi hợp tác Phát sóng trực tiếp và chỉ sự kiện ra mắt đĩa đơn gốc),@Null@
+  t/script/language/ara/csvdef/utf8/itemdef.csv : 1 命中
+    33068,حبوب اللقاح اللطيفة,استخدام: افتح قفل هذا الاطار للاستخدام انتقل الى الملف الشخصي للاستبدال..,احصل عليها حصريا من مبنى XiaoLou
+  t/script/language/fra/csvdef/utf8/itemdef.csv : 10 命中
+    727,Hua Xiaolou Sculpture d'anniversaire,Sculpture commémorative de la célébration de l'anniversaire de Hua Xiaolou,
+    13001,Hua Xiaolou (1 jour),"Utilisation : Procurez-vous la tenue pour 1 jour d'utilisation. Si la tenue a été définitivement déverrouillée, procurez-vous quelques mini haricots.",
+    13041,Hua Xiaolou (permanent),"Utilisation : Déverrouillez définitivement la tenue. Si la tenue est déjà déverrouillée en permanence, procurez-vous des mini haricots.",
+    20597,Hua Xiaolou (7 jours),"Utilisation : Obtenez la tenue pendant 7 jours. Si la tenue a été définitivement déverrouillée, obtenez des mini-haricots.",
+    21415,Le langage des fleurs (7 jours),Événement exclusif (événement de sortie unique de musique Hua Xiaolou x QQ limité),
+    22416,Langue des fleurs,Événement exclusif (événement de sortie unique de musique Hua Xiaolou x QQ limité),
+    32068,Pollen Mengmeng (30 jours),"Utilisation : Déverrouillez le cadre de l'avatar, après le déverrouillage, vous pouvez basculer dans le centre personnel.",Huaxiaolou officiel fan club exclusif
+    32157,Hua Xiaolou (30 Jours),"Utilisez-le pour déverrouiller ce cadre d'avatar, qui peut être changé dans le profil.",De l'événement
+    33068,Pollen Mengmeng,"Utilisation : Déverrouillez le cadre de l'avatar, après le déverrouillage, vous pouvez basculer dans le centre personnel.",Huaxiaolou officiel fan club exclusif
+    33157,Hua Xiaolou,"Utilisez-le pour déverrouiller ce cadre d'avatar, qui peut être changé dans le profil.",De l'événement
+  pt/script/language/tw/csvdef/utf8/itemdef.csv : 0 命中
+  t/script/language/ptb/csvdef/utf8/itemdef.csv : 10 命中
+    727,Estado de aniversário de Xiaolou,Escultura comemorativa da celebração do aniversário de Xiaolou,@Null@
+    13001,Xiaolou (1dia),Uso: Consiga esta skin por 1 dia. Obtenha alguns Mini Feijões se você desbloqueou permanentemente a skin.,
+    13041,Xiaolou (Permanente),Uso: Desbloqueia este skin permanentemente. Obtenha alguns Mini Feijões se você desbloqueou permanentemente a skin.,
+    20597,Xiaolou (7 dias),"Uso: desbloqueie esta skin por 1 dia (se você já tem essa skin, você receberá alguns feijões após o uso)",@Null@
+    21415,Ambiente Floral (7 dias),Evento exclusivo (música Xiaolou x QQ x transmissão ao vivo de colaboração Weishi e evento de lançamento único original apenas),@Null@
+    22416,Ambiente Floral,Evento exclusivo (música Xiaolou x QQ x transmissão ao vivo de colaboração Weishi e evento de lançamento único original apenas),@Null@
+    32068,Pólen fofo (30 dias),"Uso: desbloqueie esta moldura para usar. Use e mude em Perfil, Avatar.",Exclusivo para o grupo oficial de fãs Xiaolou
+    32157,Xiaolou em Shenzhen (30 dias),"Uso: Desbloqueie o Quadro do Avatar. Após desbloquear, você pode trocá-lo no centro pessoal.",Como obter: eventos
+    33068,Pólen fofo,"Uso: Desbloqueie este quadro para usá-lo. Use e mude em Perfil, Avatar.",Exclusivo para o grupo oficial de fãs Xiaolou
+    33157,Xiaolou em Shenzhen,"Uso: Desbloqueie o Quadro do Avatar. Após desbloquear, você pode trocá-lo no centro pessoal.",Como obter: eventos
+  pt/script/language/en/csvdef/utf8/itemdef.csv : 10 命中
+    727,Xiaolou Birthday Sculpture,Xiaolou Birthday Celebration Commemorative Sculpture,@Null@
+    13001,Xiaolou (1 day),"Use it to get the Skin for 1 day. If the Skin has been permanently unlocked, you'll get some Mini Beans.",
+    13041,Xiaolou (Permanent),"Use it to unlock this Skin permanently. If the Skin has been permanently unlocked, you'll get some Mini Beans.",
+    20597,Xiaolou (7 days),"Use it to get the Skin for 7 days. If the Skin has been permanently unlocked, you'll get some Mini Beans.",@Null@
+    21415,Floral Ambience (7 days),Event Exclusive (Xiaolou x QQ music collaboration Live Broadcast and original single launch event only),@Null@
+    22416,Floral Ambience,Event Exclusive (Xiaolou x QQ music collaboration Live Broadcast and original single launch event only),@Null@
+    32068,Cute Pollen (30 days),"Use it to unlock this Avatar Frame, which can be switched in Profile.",Exclusive for Xiaolou Official Fan Group
+    32157,Hua Xiaolou (30 Days),"Use it to unlock this Avatar Frame, which can be switched in Profile.",Obtained from event
+    33068,Cute Pollen,"Use it to unlock this Avatar Frame, which can be switched in Profile.",Exclusive for Xiaolou Official Fan Group
+    33157,Hua Xiaolou,"Use it to unlock this Avatar Frame, which can be switched in Profile.",Obtained from event
+  t/script/language/ita/csvdef/utf8/itemdef.csv : 10 命中
+    727,Scultura di compleanno di Hua Xiaolou,Scultura commemorativa della celebrazione del compleanno di Hua Xiaolou,
+    13001,Hua Xiaolou (1 giorno),"Usa: prendi l'outfit per 1 giorno di utilizzo. Se l'outfit è stato sbloccato in modo permanente, prendi dei mini fagioli.",
+    13041,Hua Xiaolou (permanente),"Usa: sblocca permanentemente il vestito. Se il vestito è già sbloccato permanentemente, prendi dei mini fagioli.",
+    20597,Hua Xiaolou (7 giorni),"Usa: prendi il vestito per 7 giorni. Se il vestito è stato sbloccato in modo permanente, prendi dei mini fagioli.",
+    21415,Il linguaggio dei fiori (7 giorni),Evento esclusivo (Hua Xiaolou x QQ music single release event limited),
+    22416,Linguaggio dei fiori,Evento esclusivo (Hua Xiaolou x QQ music single release event limited),
+    32068,Polline Mengmeng (30 giorni),"Usa: Sblocca il Telaio Avatar, dopo lo sblocco, puoi passare al centro personale.",Huaxiaolou fan club ufficiale esclusivo
+    32157,Hua Xiaolou (30 Giorni),"Usalo per sbloccare questa Cornice Avatar, che può essere cambiata nel Profilo.",Dall'evento
+    33068,Polline Mengmeng,"Usa: Sblocca il Telaio Avatar, dopo lo sblocco, puoi passare al centro personale.",Huaxiaolou fan club ufficiale esclusivo
+    33157,Hua Xiaolou,"Usalo per sbloccare questa Cornice Avatar, che può essere cambiata nel Profilo.",Dall'evento
+  t/script/language/rus/csvdef/utf8/itemdef.csv : 0 命中
+  t/script/language/msa/csvdef/utf8/itemdef.csv : 8 命中
+    727,Status Hari Lahir Xiaolou.,Patung Sambutan Hari Lahir Xiaoloou,@Null@
+    13001,Xiaolou (1 hari),"Penggunaan: Dapat kulit senjata selama 1 hari. Jika pakaian telah dibuka kunci secara kekal, akan dapat Kacang Mini",
+    13041,Xiaolou (Kekal),"Penggunaan: Buka kunci pakaian secara kekal. Jika pakaian ini telah dibuka kunci secara kekal, akan dapat Kacang Mini",
+    20597,Xiaolou (7 hari),"Penggunaan: Buka kunci untuk pakaian ini selama 1 hari. Jika sudah buka kunci secara kekal, boleh mendapatkan Kacang Mini.",@Null@
+    32068,Debunga Comel (30 hari),"Gunakan: Buka kunci bingkai ini untuk digunakan. Gunakan dan tukarkan di Profile, Avatar.",Eksklusif kepada kumpulan peminat rasmi Xiaolou
+    32157,Xiaolou (30 hari),"Penggunaan: Buka kunci bingkai avatar, boleh ditukar di Profil selepas dibuka kunci.",Xiaolou Dapat dari acara bersemuka pengguna
+    33068,Debunga comel,"Use: Unlock this frame to use. Use and switch in Profile, Avatar.",Eksklusif untuk Kumpulan Peminat Rasmi Xiaolou
+    33157,Xiaolou,"Penggunaan: Buka kunci bingkai avatar, boleh ditukar di Profil selepas dibuka kunci.",Xiaolou Dapat dari acara bersemuka pengguna
+  t/script/language/ind/csvdef/utf8/itemdef.csv : 8 命中
+    727,Status Ulang Tahun Xiaolou,Patung Peringatan Perayaan Ulang Tahun Xiaolou,@Null@
+    13001,Xiaolou (1 hari),Penggunaan: Dapatkan skin ini selama 1 hari. Dapatkan Mini Bean jika telah diunlock secara permanen.,
+    13041,Xiaolou (permanen),Penggunaan: Dapatkan skin ini selama 1 permanen. Dapatkan Mini Bean jika telah diunlock secara permanen.,
+    20597,Xiaolou (7 hari),"Dapat digunakan selama 1 hari. Jika skin sudah di-unlock secara permanen, kamu akan mendapatkan Mini Bean",@Null@
+    32068,Serbuk Sari Lucu (30 hari),"Gunakan: Buka kunci bingkai ini untuk digunakan. Gunakan dan alihkan di Profil, Avatar.",Eksklusif untuk Grup Resmi Penggemar Xiaolou
+    32157,Hua Xiaolou (30 Hari),"Gunakan untuk membuka Bingkai Avatar ini, yang dapat diubah di Profil.",Dari acara
+    33068,serbuk sari yang lucu,"Gunakan: Buka kunci bingkai ini untuk digunakan. Gunakan dan alihkan di Profil, Avatar.",Eksklusif untuk Grup Penggemar Resmi Xiaolou
+    33157,Hua Xiaolou,"Gunakan untuk membuka Bingkai Avatar ini, yang dapat diubah di Profil.",Dari acara
+  t/script/language/ger/csvdef/utf8/itemdef.csv : 10 命中
+    727,Hua Xiaolou Geburtstag Skulptur,Hua Xiaolou 's Geburtstagsfeier Gedenkskulptur,
+    13001,Hua Xiaolou (1 Tag),"Verwendung: Holen Sie sich das Outfit für 1 Tag der Nutzung. Wenn das Outfit dauerhaft freigeschaltet wurde, holen Sie sich ein paar Mini-Bohnen.",
+    13041,Hua Xiaolou (dauerhaft),"Verwendung: Schalte das Outfit dauerhaft frei. Wenn das Outfit bereits dauerhaft freigeschaltet ist, besorge dir ein paar Mini-Bohnen.",
+    20597,Hua Xiaolou (7 Tage),"Verwendung: Holen Sie sich das Outfit für 7 Tage. Wenn das Outfit dauerhaft freigeschaltet wurde, besorgen Sie sich ein paar Mini-Bohnen.",
+    21415,Die Sprache der Blumen (7 Tage),Exklusives Event (Hua Xiaolou x QQ music single release event limited),
+    22416,Sprache der Blumen,Exklusives Event (Hua Xiaolou x QQ music single release event limited),
+    32068,Pollen Mengmeng (30 Tage),"Verwendung: Entsperren Sie den Avatar-Rahmen, nach dem Entsperren können Sie im Personal Center wechseln.",Huaxiaolou offizieller Fanclub exklusiv
+    32157,Hua Xiaolou (30 Tage),"Verwenden Sie es, um diesen Avatar-Rahmen freizuschalten, den Sie im Profil ändern können.",Vom Ereignis
+    33068,Pollen Mengmeng,"Verwendung: Entsperren Sie den Avatar-Rahmen, nach dem Entsperren können Sie im Personal Center wechseln.",Huaxiaolou offizieller Fanclub exklusiv
+    33157,Hua Xiaolou,"Verwenden Sie es, um diesen Avatar-Rahmen freizuschalten, den Sie im Profil ändern können.",Vom Ereignis
+
+=== roleactions.csv 搜花小楼 ===
+  /tmp/o_script/script/csvdef/roleactions.csv : 0 命中
+  p/o_script/script/csvdef/utf8/roleactions.csv : 2 命中
+    17,花小楼,21,,100108,300116,,0,20446,0,商城出场动画
+    18,花小楼,21,,100131,300117,,0,15256,0,感谢
