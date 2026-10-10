@@ -78,3 +78,7 @@ prefab     大小=1538       头32字节=6c090000f0ff8a0000000007000000f08de9520
 emo        大小=726        头32字节=550d0000f21e896745236400000001000000640010456e746974794d6f74696f
    路径: resources/minigame/particles/150011_2.emo
    可打印片段: U......gE#d.......d..EntityMotionData...?..150011_2%........f..'..BindElement2.&
+  ✓ PNG systemdefault__dotted.png (364 字节)
+  ✓ PNG systemdefault__textures__area_tex.png (70040 字节)
+  ✓ PNG systemdefault__textures__default_particle.png (1980 字节)
+===== YB JOB8 END =====
