@@ -48,3 +48,15 @@ PNG 总数: 13501
   ✓ resources__minigame__entity__13808__flower_lamp.jpg  原尺寸(128, 256) -> (128, 256)  (11305 字节)
   ✓ resources__minigame__entity__310103__body0.jpg  原尺寸(256, 256) -> (256, 256)  (13382 字节)
 回传预览图: 8 张
+--- 最大的 10 张贴图 ---
+1.9 MB  /tmp/png/resources/minigame/particles/texture/qian111.png
+1.9 MB  /tmp/png/resources/minigame/ui/mobile/effect/xingyunmanghe04.png
+1.7 MB  /tmp/png/resources/minigame/ui/mobile/effect/ui_choukaji_01.png
+1.1 MB  /tmp/png/resources/minigame/particles/texture/longbg.png
+1.1 MB  /tmp/png/resources/minigame/ui/mobile/effect/ico_medalf_5.png
+1.1 MB  /tmp/png/resources/minigame/ui/mobile/effect/ui_jiangli.png
+1.0 MB  /tmp/png/resources/minigame/ui/mobile/effect/ui_yuexiangka_shengji.png
+1.0 MB  /tmp/png/resources/minigame/particles/texture/qianmian.png
+0.9 MB  /tmp/png/resources/minigame/particles/texture/shop_unlock_07.png
+0.8 MB  /tmp/png/resources/minigame/miniui/miniworld/musicclub_atlas0_1.png
+===== YB JOB10 END =====
