@@ -1,0 +1,24 @@
+===== YB JOB4 START =====
+依赖: Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+解包 3s: 20000/36615 ... extracted=19994
+  25000/36615 ... extracted=23073
+  30000/36615 ... extracted=26817
+  35000/36615 ... extracted=31668
+extracted: 33283  md5 ok: 36615 bad: 0
+pathless (orphan) records: 3332 -> _orphans/
+--- OBJ 文件检查 ---
+obj 数量: 978
+大小合计: 22.1568 MB
+前 5 个 obj 路径:
+/tmp/out/resources/minigame/sky/aurora1.obj
+/tmp/out/resources/minigame/sky/aurora2.obj
+/tmp/out/resources/minigame/sky/sky.obj
+/tmp/out/resources/minigame/blocks/yunmu1.obj
+/tmp/out/resources/minigame/blocks/miyin1.obj
+第 1 个 obj 内容预览:
+ERR 'utf-8' codec can't decode byte 0x9f in position 0: invalid start byte
+第 2 个 obj 内容预览:
+ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byte
+第 3 个 obj 内容预览:
+ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byte
