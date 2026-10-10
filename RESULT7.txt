@@ -30,3 +30,4 @@ abi-in-manifest: []
   com.playmini.miniworld                   ★命中  HTTP/2 302  content-type: text/html; charset=utf-8 HTTP/2 200  content-type: application/o
   com.miniworld.game.cn                    否  HTTP/2 404  content-type: text/html; charset=utf-8
 选定国内版包名: None
+===== YB JOB7 END =====
