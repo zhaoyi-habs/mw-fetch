@@ -1,2 +1,16 @@
 ===== YB JOB11 START =====
 解包: 36617
+
+=== 目标文件 ===
+  ✓ resources/minigame/blocks/huaxiaolou.obj                      148667 字节
+     头: 46410600f0692320336473204d6178205761766566726f6e74204f424a204578
+     文: FA...i# 3ds Max Wavefront OBJ Exporter v0.97b - 
+  ✓ resources/minigame/blocks/huaxiaolou.png                       17568 字节
+     头: 000000000200000045824c05010072070cd90200000100000001000034440000
+     文: ........E.L...r.............4D..A...............
+  ✓ resources/minigame/particles/texture/huaxiaolou.png            32940 字节
+     头: 000000000200000045824c05010072070cd90200000100000001000041800000
+     文: ........E.L...r.............A...A...............
+  ✓ resources/minigame/particles/texture/huaxiao.png               29108 字节
+     头: 000000000200000045824c05010072070cd90200000100000001000048710000
+     文: ........E.L...r.............Hq..A...............
