@@ -62,3 +62,58 @@ remote_res 文件数: 21529
      55 entity/140209
      54 entity/140318
      54 entity/140305
+
+=== script_res json 中搜 skin/装扮/花小楼 ===
+/tmp/o_script/commonresource/script/ui/mobile/mvc/rookieguide/rookieguidectrl.lua
+/tmp/o_script/commonresource/script/ui/mobile/mvc/rookieguide/rookieguide.xml
+/tmp/o_script/commonresource/script/csvdef/utf8/stringdef.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/bottle.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/literesource_oversea.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/blockdef.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/itemuseskindef.csv
+/tmp/o_script/commonresource/script/csvdef/utf8/itemdef.csv
+/tmp/o_script/commonresource/script/miniui/module/chat/chatconfig.lua
+/tmp/o_script/script/language/jpn/csvdef/utf8/stringdef.csv
+/tmp/o_script/script/language/jpn/csvdef/utf8/itemdef.csv
+/tmp/o_script/script/csvdef/utf8/roleskin.csv
+/tmp/o_script/script/csvdef/utf8/roleactions.csv
+/tmp/o_script/script/csvdef/utf8/createroleavatar_v2.csv
+/tmp/o_script/script/luascript/res/rolefreeavatarskin.lua
+/tmp/o_script/script/miniui/module/minimusicfestival/minimusicfestivalctrl.lua
+/tmp/o_script/commonresource/script/ui/mobile/playmain.lua
+/tmp/o_script/commonresource/script/ui/mobile/roleattr.lua
+/tmp/o_script/commonresource/script/ui/mobile/characteraction.lua
+/tmp/o_script/commonresource/script/ui/mobile/developerstore.lua
+/tmp/o_script/commonresource/script/ui/mobile/developerstore.xml
+/tmp/o_script/commonresource/script/ministudio/editorinterface.lua
+/tmp/o_script/commonresource/script/luascript/mobs.lua
+/tmp/o_script/commonresource/script/luascript/ui/base.lua
+/tmp/o_script/commonresource/script/luascript/ugc/logic/gameglobal.lua
+/tmp/o_script/commonresource/script/sandboxengine/gameplay/playerctrl/playercontrolbase.lua
+/tmp/o_script/commonresource/script/sandboxengine/plugin/weaponskin/weaponskin_helpermodule.lua
+/tmp/o_script/commonresource/script/miniui/module/actionexpression/actionexpressionmanager.lua
+/tmp/o_script/commonresource/script/miniui/module/ugc/modslib/modslibeditor/modedit/singleeditorframeview.lua
+/tmp/o_script/commonresource/script/miniui/module/ugc/modslib/modslibeditor/modedit/singleeditorframectrl.lua
+/tmp/o_script/commonresource/script/miniui/module/ugc/toppurchaseinmap/toppurchaseinmapview.lua
+/tmp/o_script/commonresource/script/
+
+=== script_res json 文件名列表 ===
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_pro_sword1.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540527.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540359_psword_thammer.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540235_double_shovel_hammer.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540487.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540319_doublehammer.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540503.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540486.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540179_sword_shovel.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_12002_spear.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540539.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540484.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540010_pswordaxe.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540395_projectile.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_pro.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540561.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_540428_double_spear_hammer.json
+/tmp/o_script/commonresource/script/json/skillscfg/skill/skill_double_powersword_powerspear.json
+/tmp/o_script/commo
