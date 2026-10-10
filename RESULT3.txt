@@ -1,0 +1,8 @@
+===== YB JOB3 START =====
+磁盘: /dev/root       145G   59G   86G  41% /
+依赖已装
+APK 下载 32s  1060171073
+pkg: drwxr-xr-x 3 runner runner      4096 Oct 10 04:20 ..
+-rw-r--r-- 1 runner runner 667030679 Jan  1  1981 common_res.pkg
+头部: 00000000: ba30 0100 1100 0000 3678 a527 619c 1c00  .0......6x.'a...
+00000010: 4403 0000 f62f 0000 0000 0600 0000 eb8b  D..../..........
