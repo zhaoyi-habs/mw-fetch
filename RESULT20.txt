@@ -4,3 +4,13 @@ game_res 文件数 3518
 img_huaxiaolou.png 32624 字节 magic=0000000002000000
 解码产物: /tmp/one_out/img_huaxiaolou.png
   回传解码图 /tmp/one_out/img_huaxiaolou.png
+
+=== remote_res 贴图加密分析 ===
+male.png 25960 字节
+  前64字节: 6deb2300f03118540000c559b5bb266d14c04b4d0dcf75fcacda10000000131b030023000000094a56b573aabb4db5f46b3b23634c1148d800b8d987a0f7d7a3
+  魔数搜索(标准两版):
+    0x59A21C2C 出现在偏移: -1
+    0x054C8245 出现在偏移: -1
+    02000000 头: False
+  滑动搜索合理宽高(w,h in 64..2048):
+    []
