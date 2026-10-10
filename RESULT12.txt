@@ -31,3 +31,13 @@ Try 'head --help' for more information.
   game_res.pkg 内 huaxiaolou 字符串命中:
 131064879:huaxiaolou
 199115218:huaxiaolou
+
+=== 全包粗筛 huaxiaolou ===
+  common_res.pkg                     命中 1
+  first_res.pkg                      命中 0
+  game_language.pkg                  命中 0
+  game_res.pkg                       命中 2
+  material_ogles2.pkg                命中 0
+  material_ogles3.pkg                命中 0
+  remote_res.pkg                     命中 0
+  script_res.pkg                     命中 2
