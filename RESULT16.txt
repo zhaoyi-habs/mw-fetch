@@ -105,3 +105,47 @@ pkg 大小:
    (无)
   huaxiao 命中:
    (无)
+
+=== 全解包 动画/骨骼/皮肤 统计 ===
+  *.skanim    : 10502
+  *.skeleton  : 412
+  *.anim      : 8
+  *.omod      : 678
+  *.mesh      : 3674
+  *.ent       : 17
+  *.mat       : 2237
+  含 skin 路径: /tmp/o_first_res/skinmeshvertexlayout
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin164.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin165.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_skin_hy.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin166.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin1.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin2.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin159.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin167.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin142.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/pskin163.png
+/tmp/o_game_res/resources/increments/universe/sounds/skin
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin329.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin205.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin194.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin279.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin360.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin217.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/skin/skin195.ogg
+/tmp/o_game_res/resources/increments/universe/sounds/
+  含 role/player/hero: /tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/board_role_introduction.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_festival_role.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_role_xionghaizi.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_role_yearbeast.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_player_familiar.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_player_expert.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_role_liulijiang_3.png
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_role_nini_3.png
+/tmp/o_game_res/resources/increments/universe/miniui/miniworld/music_roleplay_atlas0.png
+/tmp/o_game_res/resources/increments/universe/miniui/miniworld/music_roleplay.fui
+/tmp/o_game_res/resources/ui/roleicons
+/tmp/o_game_res/resources/ui/roleicons/avatar_icon1000_2050.png
+/tmp/o_game_res/resources/ui/roleicons/avatar_icon1000_2071.png
+/tmp/o_game_res/resources/ui/roleicons/avatar_icon1000_1394.png
+/tmp/o_game_res/resources/ui/role
