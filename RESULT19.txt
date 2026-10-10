@@ -234,3 +234,8 @@ put失败 'ascii' codec can't encode characters in position 60-63: ordinal not i
   回传 animation/100130.skanim                                         19949  ✅
   回传 animation/100100.skanim                                         34747  ✅
   回传 animation/100104.skanim                                          5434  ✅
+
+=== 解码花小楼贴图 ===
+解码后 PNG: 0
+find: ‘/
+find: ‘/tmp/png_hualou’: No such file or directory
