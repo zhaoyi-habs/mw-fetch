@@ -1,2 +1,29 @@
 ===== YB JOB8 START =====
 解包完成 文件数: 36617
+清单已上传: 36617 行
+--- 角色相关文件搜索 ---
+角色相关:
+/tmp/out/resources/minigame/entity/100082/model/body_rtexbody.mesh
+/tmp/out/resources/minigame/entity/100082/model/body_sk.skeleton
+/tmp/out/resources/minigame/entity/140366/model/body_face2.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_face.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_male.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_face3.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_face1.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_male1.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_male2.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_sk.skeleton
+/tmp/out/resources/minigame/entity/140366/model/body_male004.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_face4.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_male3.mesh
+/tmp/out/resources/minigame/entity/140366/model/body_male005.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_face005.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_face006.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_body2.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_body0.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_sk.skeleton
+/tmp/out/resources/minigame/entity/140365/model/body_body3.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_body1.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_face004.mesh
+/tmp/out/resources/minigame/entity/140365/model/body_face007.mesh
+/tmp/out/res
