@@ -13,3 +13,20 @@ abi-in-manifest: []
 搜索结果(apkpure.com):
 
 搜索结果(apkpure.net):
+
+--- 候选包名探测 ---
+  com.minitech.miniworld                   否  HTTP/2 302  content-type: text/html; charset=utf-8 HTTP/2 403  content-type: text/html; ch
+  com.minitech.miniworld.huawei            否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.mi                否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.oppo              否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.vivo              否  HTTP/2 302  content-type: text/html; charset=utf-8 HTTP/2 403  content-type: text/html; ch
+  com.minitech.miniworld.anzhi             否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.baidu             否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.lenovo            否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.meizu             否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.samsung           否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.google            否  HTTP/2 404  content-type: text/html; charset=utf-8
+  com.minitech.miniworld.nearme.gamecenter 否  HTTP/2 302  content-type: text/html; charset=utf-8 HTTP/2 403  content-type: text/html; ch
+  com.playmini.miniworld                   ★命中  HTTP/2 302  content-type: text/html; charset=utf-8 HTTP/2 200  content-type: application/o
+  com.miniworld.game.cn                    否  HTTP/2 404  content-type: text/html; charset=utf-8
+选定国内版包名: None
