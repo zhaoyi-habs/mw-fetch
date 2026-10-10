@@ -1,2 +1,62 @@
 ===== YB JOB19 START 花小楼 =====
 remote_res 文件数: 21529
+
+=== 花小楼 (entity/140021) 文件清单 ===
+face.png
+material/material #10.mat
+material/material #7.mat
+material/material #9.mat
+material/03 - default.mat
+140021_lod/material/material #108.mat
+140021_lod/material/material #10.mat
+140021_lod/model/140021low_sk.skeleton
+140021_lod/model/140021low_hulu.mesh
+140021_lod/model/140021low_body0.mesh
+140021_lod/hululow.png
+140021_lod/animation/100109.skanim
+140021_lod/animation/take_001.skanim
+140021_lod/animation/100107.skanim
+140021_lod/animation/100101.skanim
+140021_lod/animation/100108.skanim
+140021_lod/animation/100100.skanim
+140021_lod/bodylow.png
+140021_lod/140021low.prefab
+expand/animation/100106.skanim
+expand/animation/100113.skanim
+expand/animation/100155.skanim
+expand/animation/100103.skanim
+expand/animation/100131.skanim
+expand/animation/100133.skanim
+expand/animation/100102.skanim
+expand/animation/100157.skanim
+expand/animation/100164.skanim
+expand/animation/100140.skanim
+expand/animation/100101.skanim
+expand/animation/100108.skanim
+expand/animation/100130.skanim
+expand/animation/100100.skanim
+expand/animation/100104.skanim
+model/body_face.mesh
+model/body_face1.mesh
+model/body_body.mesh
+model/body_sk.skeleton
+model/body_hulu.mesh
+body.prefab
+animation/100106.skanim
+animation/100113.skanim
+animation/100155.skanim
+animation/100103.skanim
+animation/100133.skanim
+animation/100102.skanim
+animation/100140.skanim
+animation/100101.skanim
+animation/100108.skanim
+animation/100130.skanim
+animation/100100.skanim
+animation/100104.skanim
+hand.omod
+male.png
+140021.overridecontroller
+face1.png
+hulu.png
+put失败 'ascii' codec can't encode characters in position 60-62: ordinal not in range(128)
