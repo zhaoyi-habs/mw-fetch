@@ -9,3 +9,7 @@ game_res: 3518
 73934 pskin114.png
   pskin114.png 原尺寸 256x256
   img_huaxiaolou.png 原尺寸 256x256
+
+=== 找 icon_55 / 头像 ===
+/tmp/o_game/resources/increments/universe/ui/headframes
+/tmp/o_game/resources/ui/headframes
