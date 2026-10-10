@@ -10,3 +10,22 @@ pkg 大小:
 16582557 material_ogles3.pkg
 1053265 remote_res.pkg
 55446388 script_res.pkg
+
+=== 解包 game_res.pkg (209041340 字节) ===
+  提取文件: 3517
+  内容 md5: 通过 0 / 失败 0 / 跳过 3517
+  解码分支: {'raw': 3007, 'lz4': 510}
+  按 Z 统计: {'Z=32/raw': 3007, 'Z=33/lz4': 510}
+  扩展名与内容一致性:
+    .png      2997/  2997
+    .ogg       165/   165
+    .emo        44/    44
+    .json        2/     2
+    .zip         1/     1
+  耗时 0.5s，读取 199.1 MB
+  报告: /tmp/o_game_res/_unpack_report.json
+  解出文件数: 3518
+  xiaolou 命中:
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_huaxiaolou.png
+  huaxiao 命中:
+/tmp/o_game_res/resources/increments/universe/ui/mobile/texture0/bigtex/img_huaxiaolou.png
