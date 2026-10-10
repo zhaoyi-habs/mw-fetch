@@ -1,0 +1,11 @@
+===== YB JOB7 START =====
+国际版下载 8s  1060171073 字节
+--- 国际版 manifest ---
+package= com.playmini.miniworld
+versionName= 1.7.15
+versionCode= 67343
+minSdk= 19
+targetSdk= 34
+uses-feature glEsVersion: ['0x00020000']
+abi-in-manifest: []
+国际版 ABI: lib/armeabi-v7a/
