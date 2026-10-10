@@ -27,3 +27,29 @@
 /tmp/out/resources/minigame/entity/140365/model/body_face004.mesh
 /tmp/out/resources/minigame/entity/140365/model/body_face007.mesh
 /tmp/out/res
+--- 上传实体样本 ---
+  ✓ systemdefault__mesh__plane.mesh  (2554 字节)
+    hex头: e01c0000f20605000000506c616e650100000045824c0501
+  ✓ systemdefault__mesh__quad.mesh  (163 字节)
+    hex头: 4c020000f20504000000517561640100000045824c050100
+  ✓ systemdefault__mesh__sphere.mesh  (19708 字节)
+    hex头: d8820000f307060000005370686572650100000045824c05
+  ✓ systemdefault__mesh__cylinder.mesh  (2904 字节)
+    hex头: a4160000f2090800000043796c696e646572010000004582
+  ✓ systemdefault__mesh__cube.mesh  (503 字节)
+    hex头: 08070000f20504000000437562650100000045824c050100
+  ✓ systemdefault__mesh__capsule.mesh  (22937 字节)
+    hex头: 948b0000f2080700000043617073756c650100000045824c
+  ✓ resources__minigame__entity__100082__model__body_rtexbody.me  (31321 字节)
+    hex头: e0ef0000f2090800000072746578626f6479010000004582
+  ✓ resources__minigame__entity__100082__model__body_sk.skeleton  (2347 字节)
+    hex头: a80f00006002000000736b0600f72745824c05010015148c
+  ✓ resources__minigame__entity__140366__model__body_face2.mesh  (5423 字节)
+    hex头: 38260000f2060500000066616365320100000045824c0501
+  ✓ resources__minigame__entity__140366__model__body_face.mesh  (5853 字节)
+    hex头: 8c280000f20504000000666163650100000045824c050100
+  ✓ resources__minigame__entity__140366__model__body_male.mesh  (172933 字节)
+    hex头: 80c40600f205040000006d616c650100000045824c050100
+  ✓ resources__minigame__entity__140366__model__body_face3.mesh  (5399 字节)
+    hex头: 38260000f2060500000066616365330100000045824c0501
+已传样本数: 12
