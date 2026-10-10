@@ -1,0 +1,4 @@
+===== YB JOB6 START =====
+当前包大小: 1060171073
+--- 当前包 manifest ---
+/bin/sh: 1: Syntax error: "(" unexpected
