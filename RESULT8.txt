@@ -53,3 +53,28 @@
   ✓ resources__minigame__entity__140366__model__body_face3.mesh  (5399 字节)
     hex头: 38260000f2060500000066616365330100000045824c0501
 已传样本数: 12
+--- 各格式 hex 头 ---
+skanim     大小=109524     头32字节=e8ae0300f1100800000054616b65203030310200000045824c05010094cb978a
+   路径: resources/minigame/entity/100082/animation/100888_take_001.skanim
+   可打印片段: ..........Take 001....E.L...............b..........A....VU.@.....@.G.C...]mq..s5
+skeleton   大小=2347       头32字节=a80f00006002000000736b0600f72745824c05010015148c41020043000000ff
+   路径: resources/minigame/entity/100082/model/body_sk.skeleton
+   可打印片段: ....`....sk...'E.L......A..C...............Bone_01.e.5.....-4...5?.....s...-.C..
+mesh       大小=2554       头32字节=e01c0000f20605000000506c616e650100000045824c05010001000100395802
+   路径: systemdefault/mesh/plane.mesh
+   可打印片段: ..........Plane....E.L.......9X....,y...*.C...... .... ..\.q.............q......
+omod       大小=861591     头32字节=f1441500f0148967452364000000010000006500094d6f64656c446174611000
+   路径: resources/ministudio/entity/player/player01/body.omod
+   可打印片段: .D.....gE#d.......e..ModelData....d..Mesh.....breast01...D.Sub...........`......
+ent        大小=74         头32字节=89674523640000000100000064000a456e746974794461746100000000000001
+   路径: resources/minigame/particles/item_12293_fpsfreed.ent
+   可打印片段: .gE#d.......d..EntityData..........%.res\particles\item_12293_FPSfreed.emo
+mat        大小=370        头32字节=44020000f556000000000600000072d910850200eb8bee81020045824c050100
+   路径: systemdefault/materials/particlematerial.mat
+   可打印片段: D....V........r...........E.L.....V....WH....K. .........L.......r.....*H..$:@..
+prefab     大小=1538       头32字节=6c090000f0ff8a0000000007000000f08de9520100b34bbf2002006f50ddbb01
+   路径: resources/minigame/entity/100082/body.prefab
+   可打印片段: l.................R...K. ..oP....7/......V...E.L....WH.....%...gN......|.......y
+emo        大小=726        头32字节=550d0000f21e896745236400000001000000640010456e746974794d6f74696f
+   路径: resources/minigame/particles/150011_2.emo
+   可打印片段: U......gE#d.......d..EntityMotionData...?..150011_2%........f..'..BindElement2.&
