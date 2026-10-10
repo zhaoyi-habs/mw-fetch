@@ -38,3 +38,13 @@ convert_fmt65: 12000 {'ok': 11993, 'cubemap-skip': 8}
 13000 {'ok': 12993, 'cubemap-skip': 8}
 DONE {'ok': 13494, 'cubemap-skip': 8}
 PNG 总数: 13501
+--- 回传预览图 ---
+  ✓ resources__ministudio__entity__player__player01__bod  原尺寸(256, 256) -> (256, 256)  (14890 字节)
+  ✓ resources__minigame__entity__130013__face.jpg  原尺寸(128, 128) -> (128, 128)  (2934 字节)
+  ✓ resources__minigame__entity__130013__body.jpg  原尺寸(256, 256) -> (256, 256)  (15067 字节)
+  ✓ resources__minigame__entity__100125__male1.jpg  原尺寸(256, 256) -> (256, 256)  (8163 字节)
+  ✓ resources__minigame__entity__100125__male1_emi.jpg  原尺寸(256, 256) -> (256, 256)  (9938 字节)
+  ✓ resources__minigame__entity__130037__male.jpg  原尺寸(256, 256) -> (256, 256)  (11026 字节)
+  ✓ resources__minigame__entity__13808__flower_lamp.jpg  原尺寸(128, 256) -> (128, 256)  (11305 字节)
+  ✓ resources__minigame__entity__310103__body0.jpg  原尺寸(256, 256) -> (256, 256)  (13382 字节)
+回传预览图: 8 张
