@@ -25,3 +25,9 @@ Try 'head --help' for more information.
 
 
 === 花小楼 对应 ID ===
+
+=== game_res.pkg 检索 ===
+  存在，大小 209041340
+  game_res.pkg 内 huaxiaolou 字符串命中:
+131064879:huaxiaolou
+199115218:huaxiaolou
