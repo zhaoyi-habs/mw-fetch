@@ -14,3 +14,36 @@ male.png 25960 字节
     02000000 头: False
   滑动搜索合理宽高(w,h in 64..2048):
     []
+
+=== 搜 skin 相关 UI 图 ===
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin164.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin165.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_skin_hy.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin166.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin1.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin2.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin159.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin167.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin142.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin163.png
+/tmp/o_game/resources/increments/universe/sounds/skin
+/tmp/o_game/resources/increments/universe/sounds/skin/skin329.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin205.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin194.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin279.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin360.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin217.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin195.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin206.ogg
+/tmp/o_game/resources/increments/universe/sounds/skin/skin281.ogg
+/tmp/o_game/resources/increment
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin164.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin165.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin166.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin1.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/img_vipskin2.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin159.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin167.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin142.png
+/tmp/o_game/resources/increments/universe/ui/mobile/texture0/bigtex/pskin163.png
+/tmp/o_game/resources/ui/mobile/texture0/bigtex/pskin114.png
