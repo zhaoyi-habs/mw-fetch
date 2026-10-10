@@ -34,3 +34,18 @@ convert_textures 0s:
   12000 ... {'unsup-fmt65': 11632, 'not-tex': 368}
 DONE 13879 {'unsup-fmt65': 13502, 'not-tex': 370, 'ok': 7}
 PNG 累计: 7
+convert_fmt65 90s:
+3000 {'ok': 2993, 'cubemap-skip': 8}
+4000 {'ok': 3993, 'cubemap-skip': 8}
+5000 {'ok': 4993, 'cubemap-skip': 8}
+6000 {'ok': 5993, 'cubemap-skip': 8}
+7000 {'ok': 6993, 'cubemap-skip': 8}
+8000 {'ok': 7993, 'cubemap-skip': 8}
+9000 {'ok': 8993, 'cubemap-skip': 8}
+10000 {'ok': 9993, 'cubemap-skip': 8}
+11000 {'ok': 10993, 'cubemap-skip': 8}
+12000 {'ok': 11993, 'cubemap-skip': 8}
+13000 {'ok': 12993, 'cubemap-skip': 8}
+DONE {'ok': 13494, 'cubemap-skip': 8}
+PNG 总计: 13501
+PNG 目录大小: 272M	/tmp/png
