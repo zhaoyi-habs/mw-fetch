@@ -1,1 +1,2 @@
 ===== YB JOB18 START =====
+script_res 文件数: 8173
