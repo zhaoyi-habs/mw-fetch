@@ -22,3 +22,5 @@ ERR 'utf-8' codec can't decode byte 0x9f in position 0: invalid start byte
 ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byte
 第 3 个 obj 内容预览:
 ERR 'utf-8' codec can't decode byte 0xf0 in position 4: invalid continuation byte
+obj.zip: 23457297 字节
+上传 obj: MiniWorld_obj.zip 23457297
