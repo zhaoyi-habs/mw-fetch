@@ -86,3 +86,22 @@ pkg 大小:
    (无)
   huaxiao 命中:
    (无)
+
+=== 解包 game_language.pkg (1097274 字节) ===
+  输出: /tmp/o_game_language
+  格式: ver=0x130BA  记录 39 条  路径 39 条  页脚 c25924ea2d2b6d46b3876c4be93136f3
+  
+  ===== 汇总 =====
+  提取文件: 39
+  内容 md5: 通过 0 / 失败 0 / 跳过 39
+  解码分支: {'raw': 38, 'lz4': 1}
+  按 Z 统计: {'Z=32/raw': 38, 'Z=33/lz4': 1}
+  扩展名与内容一致性:
+    .png        38/    38
+  耗时 0.0s，读取 1.0 MB
+  报告: /tmp/o_game_language/_unpack_report.json
+  解出文件数: 40
+  xiaolou 命中:
+   (无)
+  huaxiao 命中:
+   (无)
