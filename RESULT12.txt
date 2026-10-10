@@ -41,3 +41,13 @@ Try 'head --help' for more information.
   material_ogles3.pkg                命中 0
   remote_res.pkg                     命中 0
   script_res.pkg                     命中 2
+
+=== 带骨骼动画的角色实体（可动候选）===
+skanim 总数: 0
+find: 
+find: ‘/tmp/out’: No such file or directory
+
+带 skeleton 的 entity 目录:
+find: ‘/tmp/out’: No such file or directory
+
+===== YB JOB12 END =====
